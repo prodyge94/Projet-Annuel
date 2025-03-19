@@ -1,0 +1,1 @@
+Problématiques applicatives choisies : Calssification : Application permettant de différencier une image (screenshot) issue d'un RTS, d'un MOBA ou d'un FPS
